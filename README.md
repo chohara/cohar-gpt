@@ -9,4 +9,4 @@ To initialize the conversation:
 API_KEY=<paste key>
 ```
 
-+ run chatgpt.sh
++ run ai.sh
